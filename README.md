@@ -19,14 +19,11 @@
   
 </p>
 
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsa-kim&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsa-kim&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
+<br>
+<p align="center">
+<a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsa-kim&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=elsa-kim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+</p>
 <!--
 https://simpleicons.org/?q=mongo
 -->
