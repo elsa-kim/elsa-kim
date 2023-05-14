@@ -6,9 +6,22 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=elsa-kim&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-<img src="https://raw.githubusercontent.com/elsa-kim/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
-[[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elsa-kim&theme=tokyonight)](https://git.io/streak-stats)
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  
+</p>
+
+<!--
+https://simpleicons.org/?q=mongo
+-->
 
 <!--
 **elsa-kim/elsa-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
