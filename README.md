@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Sohyun's record&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sohyun%20Kim&fontSize=90)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsa-kim&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
