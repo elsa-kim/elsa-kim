@@ -6,7 +6,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=elsa-kim&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/elsa-kim/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elsa-kim&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
