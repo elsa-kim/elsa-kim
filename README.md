@@ -26,7 +26,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsa-kim&layout=compact&theme=nord&hide_border=true" /></a> 
-<a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=elsa-kim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<!-- <a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=elsa-kim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> -->
 </p>
 <!--
 https://simpleicons.org/?q=mongo
