@@ -40,8 +40,10 @@
   <br> 
 <p align="center">
 <a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsa-kim&layout=compact&theme=nord&hide_border=true" /></a> 
- <a href="https://solved.ac/ksh96611"><img align="center" style="height:180px" src=http://mazassumnida.wtf/api/v2/generate_badge?boj=ksh96611></a> 
-<!-- <a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=elsa-kim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> -->
+<!-- 백준 티어 -->
+  <!--  <a href="https://solved.ac/ksh96611"><img align="center" style="height:180px" src=http://mazassumnida.wtf/api/v2/generate_badge?boj=ksh96611></a>  -->
+
+  <!-- <a href="https://github.com/elsa-kim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=elsa-kim&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> -->
 </p>
 <!--
 https://simpleicons.org/?q=mongo
